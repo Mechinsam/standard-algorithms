@@ -31,3 +31,5 @@ if __name__ == "__main__":
 		print("Target not found")
 	else:
 		print(f"Target found in element {variablePosition} of the array")
+else:
+	pass
